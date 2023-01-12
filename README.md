@@ -1,2 +1,2 @@
 # aa-spec-project
-Tacking App Academy's Spec Project
+Tackliing App Academy's Spec Project
