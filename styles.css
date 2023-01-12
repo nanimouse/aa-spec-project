@@ -1,7 +1,7 @@
 #container {
   width: 1000px;
-    margin: auto;
-    padding-top: 13px;
+  margin: auto;
+  padding-top: 13px;
 }
 
 header {
@@ -14,10 +14,6 @@ header {
   padding: 5px 20px;
 }
 
-#app-academy {
-  /* padding: 5px 20px; */
-}
-
 a {
   text-decoration: none;
 }
@@ -25,7 +21,6 @@ a {
 nav {
   display: flex;
   justify-content: space-around;
-
   margin-top: 20px;
 }
 
@@ -50,15 +45,12 @@ nav {
 }
 
 #author {
-        margin-top: -10px;
-    /* margin-right: -37px;
-    margin-left: -80px; */
+  margin-top: -10px;
 }
 
 #social-links {
-    margin-top: 7px;
-    /* margin-right: 10px; */
-    margin-left: 70px;
+  margin-top: 7px;
+  margin-left: 70px;
 }
 
 .socials {
@@ -66,8 +58,8 @@ nav {
 }
 
 #img-div {
-    width: 450px;
-    margin: auto;
+  width: 450px;
+  margin: auto;
 }
 
 #paras {
@@ -76,10 +68,10 @@ nav {
 }
 
 #more-info {
-    border: solid 1px;
-    padding: 5px;
-    width: 550px;
-    margin: auto;
+  border: solid 1px;
+  padding: 5px;
+  width: 550px;
+  margin: auto;
 }
 
 h3 {
@@ -92,7 +84,7 @@ h4 {
 }
 
 ul {
-    float: left;
+  float: left;
 }
 
 #lists {
@@ -102,6 +94,25 @@ ul {
 
 #recursive {
   margin-left: 250px;
-    margin-top: -41px;
+  margin-top: -41px;
+}
 
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+
+.logo {
+  height: 25px;
+  width: 25px;
+}
+
+#footer-links {
+  display: flex;
+
+}
+
+#footer-links a {
+  margin-right: 30px;
 }
