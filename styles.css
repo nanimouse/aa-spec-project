@@ -58,3 +58,22 @@ nav {
 .socials {
   width: 20px;
 }
+
+#img-div {
+    width: 350px;
+    margin: auto;
+}
+
+#paras {
+  width: 550px;
+  margin: auto;
+}
+
+#more-info {
+    border: solid 1px;
+    padding: 5px;
+}
+
+ul {
+    float: ;
+}
