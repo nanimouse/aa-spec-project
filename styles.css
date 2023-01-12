@@ -1,3 +1,9 @@
+#container {
+  width: 1000px;
+    margin: auto;
+    padding-top: 13px;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -51,8 +57,8 @@ nav {
 
 #social-links {
     margin-top: 7px;
-    margin-right: 10px;
-    margin-left: -148px;
+    /* margin-right: 10px; */
+    margin-left: 70px;
 }
 
 .socials {
@@ -60,7 +66,7 @@ nav {
 }
 
 #img-div {
-    width: 350px;
+    width: 450px;
     margin: auto;
 }
 
@@ -72,8 +78,30 @@ nav {
 #more-info {
     border: solid 1px;
     padding: 5px;
+    width: 550px;
+    margin: auto;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  margin-bottom: 5px;
+  margin-left: 80px;
 }
 
 ul {
-    float: ;
+    float: left;
+}
+
+#lists {
+  height: 171px;
+  margin-top: -10px;
+}
+
+#recursive {
+  margin-left: 250px;
+    margin-top: -41px;
+
 }
